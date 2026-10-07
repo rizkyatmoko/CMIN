@@ -1,0 +1,4 @@
+model,params,train_s_per_epoch,infer_ms_per_window,peak_gpu_MB
+CMIN,183988,4.07,1.067,782.8
+LSTM,38686,0.6,0.231,948.0
+AGCRN-lite,52318,0.62,0.224,948.3

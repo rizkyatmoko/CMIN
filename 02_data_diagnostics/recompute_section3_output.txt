@@ -1,0 +1,33 @@
+Table 3, panel size
+   markets, counted as distinct (city, market) pairs : 120   paper: 120
+   distinct market names                             : 113
+   cities                                            : 38   paper: 38
+   days                                              : 1826   paper: 1,826
+
+Tables 4, 5 and 6           recomputed / published
+                                PC1    paper |   mean r    paper |    decay    paper
+daily, h=1                    0.116    0.118 |    0.084    0.084 |    0.012    0.012
+daily, h=3                    0.246    0.248 |    0.216    0.216 |   -0.029   -0.029
+daily, h=7                    0.432    0.434 |    0.408    0.408 |   -0.079   -0.079
+daily, h=14                   0.612    0.619 |    0.596    0.596 |   -0.094   -0.094
+daily, h=30                   0.753    0.760 |    0.742    0.742 |   -0.117   -0.117
+weekly 1 step                 0.406    0.402 |    0.378    0.378 |   -0.041   -0.041
+weekly 2 step                 0.596    0.603 |    0.577    0.577 |   -0.048   -0.048
+weekly 4 step                 0.737    0.745 |    0.725    0.725 |   -0.085   -0.085
+change-only                       -        - |    0.156    0.156 |    0.059    0.059
+
+Reading this table
+------------------
+* Table 3 reproduces once markets are counted the way the paper counts them: distinct
+  (city, market) pairs, 120, rather than distinct market names, 113. Seven market names
+  recur in more than one regency.
+* Table 5, the distance-decay column, reproduces exactly at every horizon, daily and weekly.
+* The mean-correlation column reproduces exactly, daily and weekly.
+* The change-only row reproduces exactly: 0.156 and +0.059. Each city's daily returns are
+  kept only on the days its own price moved, which is what "change-only" means here.
+* Table 4, the PC1 column, comes out 0.002 to 0.008 lower. The code that produced the
+  published column is not among the saved files, so the exact pooling it used cannot be
+  confirmed; every alternative tried here (per-market normalisation, mean of market logs,
+  dropping the first lookback window) moves further away, so this construction is the
+  closest available. The ordering and the size of every entry are unaffected.
+

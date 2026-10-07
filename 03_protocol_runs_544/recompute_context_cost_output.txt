@@ -1,0 +1,16 @@
+contrast                 h   change %    paper % p (paired t)      paper p
+Fixed physical           1       1.98       1.98      5.3e-06         5e-6
+Fixed physical           3       3.73       3.73       0.0022        0.002
+Fixed physical           7      10.02      10.02      0.00038         4e-4
+Fixed physical          14      15.61      15.61      1.9e-05         2e-5
+Fixed physical          30      -6.75      -6.75       0.0039        0.004
+Context-conditioned      1       1.80       1.80       0.0031        0.003
+Context-conditioned      3       5.09       5.09       0.0012        0.001
+Context-conditioned      7      14.20      14.20      6.8e-05         7e-5
+Context-conditioned     14      19.13      19.13      6.8e-07         7e-7
+Context-conditioned     30      -5.43      -5.43        0.015        0.015
+
+Both columns reproduce: the percentage change to about 0.05 points and the paired t-test
+p-value to the precision the table prints.  The table is therefore a derivation from
+metrics_long.csv (2720 rows, one per run/seed/horizon), not a separate measurement.
+

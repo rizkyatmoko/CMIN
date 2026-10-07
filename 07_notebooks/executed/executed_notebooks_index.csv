@@ -1,0 +1,13 @@
+notebook,covers,source_file,source_modified,cells,cells_with_output,bytes,sha256
+CMIN_dgcrn__executed.ipynb,the DGCRN baseline,CMIN_dgcrn (1).ipynb,2026-09-17 07:59,29,27,177508,2a3aba01a7a4605326261be32729c21475bbe63834d6466d349139ad83fc9541
+CMIN_final__executed.ipynb,the ten-seed final run (Experiments 1 and 2),CMIN_final.ipynb,2026-09-13 15:10,39,36,255796,f95879059b0db236a5cdfa30c1c5d866316076dabc7b57e1336af0b0ea0664b4
+CMIN_followup__executed.ipynb,the ladder rungs and conditioning ablations,CMIN_followup (1).ipynb,2026-09-01 11:45,33,30,286397,e2e793b00b6b94564bcfc5058d1c8fda1cd46e34f53068d051777b3bae21b445
+CMIN_followup2__executed.ipynb,"ladder follow-up, second pass",CMIN_followup2 (1).ipynb,2026-09-01 16:50,33,27,270773,930c7a2d318da09b5c231be82cb7c77b660ae0985cb970f2852aaeaca79b4da0
+CMIN_followup3__executed.ipynb,"ladder follow-up, third pass",CMIN_followup3 (1).ipynb,2026-09-01 22:27,34,31,303142,f78b2554d1ec811c80bddca202ad8b9e6cc86a111a5a0948c18680bdd6400e28
+CMIN_followup4__executed.ipynb,"ladder follow-up, final pass",CMIN_followup4 (3).ipynb,2026-09-02 01:22,34,31,304608,e6255aa8786b6bfc826667e165552004f3efa56e909afce72f7975897059b67b
+CMIN_hierarchy__executed.ipynb,the hierarchy and pooling families,CMIN_hierarchy (2).ipynb,2026-08-26 15:44,32,29,241654,39b7896db29114a054c222c22ac454511d5fb29d7b688adde152123c991fd004
+CMIN_hierarchyvvv__executed.ipynb,"the hierarchy families, final pass",CMIN_hierarchyvvv (3).ipynb,2026-09-01 09:54,33,30,270548,db433948dbac910c1e52c71eea2891aa1662e11205a75cb149ef98fe4e080114
+CMIN_protocol__executed.ipynb,the 544-run protocol,CMIN_protocol (4).ipynb,2026-08-20 21:32,23,21,146441,7a96b3cfbd12cb71d63280ec0d918e90e73c63111f2ad29a5ed34b2412fa6aae
+CMIN_retrain__executed.ipynb,the retraining check,CMIN_retrain (2).ipynb,2026-09-09 21:04,27,25,165711,fa547b2157dc13e4e4ec89a00386323379655774e973833854f2eea4f56f5acf
+CMIN_validation__executed.ipynb,"the validation experiments, first pass",CMIN_validation (1).ipynb,2026-09-09 20:24,32,29,218157,1f26488b079e09a6dc8682d5d4128bf587e08a4628688a641ca5ea3a8b96b3a5
+CMIN_validation2__executed.ipynb,"the validation experiments, second pass",CMIN_validation2 (1).ipynb,2026-09-09 21:04,32,29,219429,f32b4529b38bd225c70e6db1fe50426061a8ef57958f52d81654b1157ce5cd1f

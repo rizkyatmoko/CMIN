@@ -1,0 +1,401 @@
+rung,arm,latent,seed,h,r,r2
+L1_encoder_only@R,no graph,lat,0,1,0.524541445295873,0.27281945697135956
+L1_encoder_only@R,no graph,lat,0,3,0.6115602375794678,0.37175184222708435
+L1_encoder_only@R,no graph,lat,0,7,0.6865962208670444,0.46969882035118915
+L1_encoder_only@R,no graph,lat,0,14,0.688930879844091,0.46960572165235626
+L1_encoder_only@R,no graph,lat,0,30,0.7095644856114408,0.4941753772821157
+L1_encoder_only@R,no graph,enc,0,1,0.4998721084831015,0.24903047986253035
+L1_encoder_only@R,no graph,enc,0,3,0.5920601554413679,0.3496148124364302
+L1_encoder_only@R,no graph,enc,0,7,0.6597530856954732,0.4350161434881308
+L1_encoder_only@R,no graph,enc,0,14,0.6911243226577105,0.47189760936929726
+L1_encoder_only@R,no graph,enc,0,30,0.7374791625466145,0.528710671633146
+L1_encoder_only@R,no graph,lat,1,1,0.5038876480808022,0.2520326821623339
+L1_encoder_only@R,no graph,lat,1,3,0.6188257592772302,0.3803190407393646
+L1_encoder_only@R,no graph,lat,1,7,0.691485564484048,0.4769059459898837
+L1_encoder_only@R,no graph,lat,1,14,0.7011409338281489,0.4914841076442401
+L1_encoder_only@R,no graph,lat,1,30,0.687947479571084,0.46965060605033715
+L1_encoder_only@R,no graph,enc,1,1,0.4942014657047637,0.2436837462080207
+L1_encoder_only@R,no graph,enc,1,3,0.6046787879584148,0.3635367103019589
+L1_encoder_only@R,no graph,enc,1,7,0.6833860514693364,0.46388507389964306
+L1_encoder_only@R,no graph,enc,1,14,0.7092794431444225,0.5026055100066906
+L1_encoder_only@R,no graph,enc,1,30,0.7197049613827176,0.5105701622971268
+L1_encoder_only@R,no graph,lat,2,1,0.49668692840039114,0.24236987544437205
+L1_encoder_only@R,no graph,lat,2,3,0.6030743082523901,0.3510705324885609
+L1_encoder_only@R,no graph,lat,2,7,0.6921564588479422,0.464232159218424
+L1_encoder_only@R,no graph,lat,2,14,0.6850729081093617,0.45380098626797616
+L1_encoder_only@R,no graph,lat,2,30,0.6839816340215185,0.4497355301447882
+L1_encoder_only@R,no graph,enc,2,1,0.49818726708349603,0.23852329428327834
+L1_encoder_only@R,no graph,enc,2,3,0.6042278912233133,0.34518645031191497
+L1_encoder_only@R,no graph,enc,2,7,0.6976667943557042,0.46394796094507673
+L1_encoder_only@R,no graph,enc,2,14,0.6952037885887085,0.46077807386450187
+L1_encoder_only@R,no graph,enc,2,30,0.7232137856519267,0.49204737385928055
+L1_encoder_only@R,no graph,lat,3,1,0.5004641763968118,0.2500685752651962
+L1_encoder_only@R,no graph,lat,3,3,0.6020099687317844,0.36232754548819934
+L1_encoder_only@R,no graph,lat,3,7,0.6706677557314346,0.4494714371429277
+L1_encoder_only@R,no graph,lat,3,14,0.6878645162091318,0.46988590285392573
+L1_encoder_only@R,no graph,lat,3,30,0.7112424065310119,0.4907540187135645
+L1_encoder_only@R,no graph,enc,3,1,0.49225784954520635,0.24169929636391163
+L1_encoder_only@R,no graph,enc,3,3,0.5936883173565508,0.35173459514596495
+L1_encoder_only@R,no graph,enc,3,7,0.673808400525433,0.45143112393386875
+L1_encoder_only@R,no graph,enc,3,14,0.6994058686021408,0.48501872988012484
+L1_encoder_only@R,no graph,enc,3,30,0.7190100286806818,0.5004541192205902
+L1_encoder_only@R,no graph,lat,4,1,0.45940442209919347,0.20140750074673985
+L1_encoder_only@R,no graph,lat,4,3,0.5181263636653128,0.23817863920807625
+L1_encoder_only@R,no graph,lat,4,7,0.5856689934730178,0.3070543427546434
+L1_encoder_only@R,no graph,lat,4,14,0.5934619450345288,0.3100670107772604
+L1_encoder_only@R,no graph,lat,4,30,0.6523548827346117,0.38862896669814706
+L1_encoder_only@R,no graph,enc,4,1,0.47576271082440974,0.2247128492165723
+L1_encoder_only@R,no graph,enc,4,3,0.5599675437547884,0.30646142215228633
+L1_encoder_only@R,no graph,enc,4,7,0.6207791130821044,0.37300995134834336
+L1_encoder_only@R,no graph,enc,4,14,0.6262602459213713,0.36521489387771
+L1_encoder_only@R,no graph,enc,4,30,0.701466675287186,0.45694584909986957
+L1_encoder_only@R,no graph,lat,5,1,0.5305092081643759,0.2779899217317686
+L1_encoder_only@R,no graph,lat,5,3,0.6234852161157782,0.3835433108475731
+L1_encoder_only@R,no graph,lat,5,7,0.6686214517118111,0.4452681396019804
+L1_encoder_only@R,no graph,lat,5,14,0.6632587511404522,0.4391381723206883
+L1_encoder_only@R,no graph,lat,5,30,0.6973594577085622,0.4744090095810216
+L1_encoder_only@R,no graph,enc,5,1,0.524830124292503,0.2732090154226261
+L1_encoder_only@R,no graph,enc,5,3,0.6199562612083497,0.37871404708922507
+L1_encoder_only@R,no graph,enc,5,7,0.6652491095881209,0.43750273214286484
+L1_encoder_only@R,no graph,enc,5,14,0.6607139625630737,0.4345129044867899
+L1_encoder_only@R,no graph,enc,5,30,0.7074184217621866,0.4822283109858698
+L1_encoder_only@R,no graph,lat,6,1,0.46556825783334715,0.21287684394912598
+L1_encoder_only@R,no graph,lat,6,3,0.5557499230273593,0.30194430967130015
+L1_encoder_only@R,no graph,lat,6,7,0.6240696859727977,0.376101155511277
+L1_encoder_only@R,no graph,lat,6,14,0.572447334628218,0.30041561512868886
+L1_encoder_only@R,no graph,lat,6,30,0.6506486601000249,0.40187251592348505
+L1_encoder_only@R,no graph,enc,6,1,0.45798792185217896,0.20760236576478786
+L1_encoder_only@R,no graph,enc,6,3,0.5461903559117467,0.2948756873700422
+L1_encoder_only@R,no graph,enc,6,7,0.6218120552720776,0.37522639428134197
+L1_encoder_only@R,no graph,enc,6,14,0.6007686434649104,0.34234257766632226
+L1_encoder_only@R,no graph,enc,6,30,0.6874674713620106,0.45397255546244997
+L1_encoder_only@R,no graph,lat,7,1,0.4982592781296354,0.24289537897104818
+L1_encoder_only@R,no graph,lat,7,3,0.5806772967931909,0.3233562727368843
+L1_encoder_only@R,no graph,lat,7,7,0.6457897647519417,0.4003631116372657
+L1_encoder_only@R,no graph,lat,7,14,0.6534790003342512,0.41894077721632383
+L1_encoder_only@R,no graph,lat,7,30,0.6572816554710358,0.42162911615496745
+L1_encoder_only@R,no graph,enc,7,1,0.5012435586976681,0.24340265388087523
+L1_encoder_only@R,no graph,enc,7,3,0.5769954760694342,0.31141819403265303
+L1_encoder_only@R,no graph,enc,7,7,0.649545660129935,0.3950586357711968
+L1_encoder_only@R,no graph,enc,7,14,0.6728519338348358,0.4368469251872009
+L1_encoder_only@R,no graph,enc,7,30,0.7049949167957656,0.481558417792868
+L1_encoder_only@R,no graph,lat,8,1,0.4827331549519353,0.23066618914015202
+L1_encoder_only@R,no graph,lat,8,3,0.562226299380328,0.30611500143881265
+L1_encoder_only@R,no graph,lat,8,7,0.6290399276094795,0.3870470690593154
+L1_encoder_only@R,no graph,lat,8,14,0.6434643711411819,0.40682241234700733
+L1_encoder_only@R,no graph,lat,8,30,0.6947320162370848,0.4797342345705947
+L1_encoder_only@R,no graph,enc,8,1,0.4753761618770104,0.22403350034781477
+L1_encoder_only@R,no graph,enc,8,3,0.5546545666295644,0.29833016282017477
+L1_encoder_only@R,no graph,enc,8,7,0.6158626910930993,0.370235596622401
+L1_encoder_only@R,no graph,enc,8,14,0.6435163929162707,0.4065864477537522
+L1_encoder_only@R,no graph,enc,8,30,0.7085980459782026,0.4963719757737389
+L1_encoder_only@R,no graph,lat,9,1,0.48637688993732325,0.23646566169317063
+L1_encoder_only@R,no graph,lat,9,3,0.5909502819098976,0.34830803363514806
+L1_encoder_only@R,no graph,lat,9,7,0.6356174600227091,0.3991474420893014
+L1_encoder_only@R,no graph,lat,9,14,0.655527634030812,0.4193428376692777
+L1_encoder_only@R,no graph,lat,9,30,0.7011358981728397,0.47718071606735735
+L1_encoder_only@R,no graph,enc,9,1,0.4849373631258977,0.23484166838279774
+L1_encoder_only@R,no graph,enc,9,3,0.586736231280211,0.3426721119548053
+L1_encoder_only@R,no graph,enc,9,7,0.6235708920636295,0.3817301664786493
+L1_encoder_only@R,no graph,enc,9,14,0.6487632185619266,0.410239304621387
+L1_encoder_only@R,no graph,enc,9,30,0.710015800277262,0.48750987653684674
+H_uniform_price@R,uniform adjacency,lat,0,1,0.46904657492422347,0.21795965340890322
+H_uniform_price@R,uniform adjacency,lat,0,3,0.5243071461433658,0.2680424603520991
+H_uniform_price@R,uniform adjacency,lat,0,7,0.6009084803242368,0.3537809360372498
+H_uniform_price@R,uniform adjacency,lat,0,14,0.6005737433047069,0.35253601549237623
+H_uniform_price@R,uniform adjacency,lat,0,30,0.6488218267156632,0.41238413430821697
+H_uniform_price@R,uniform adjacency,enc,0,1,0.485052448507932,0.23324645895152873
+H_uniform_price@R,uniform adjacency,enc,0,3,0.5460277600990138,0.29054873963346783
+H_uniform_price@R,uniform adjacency,enc,0,7,0.6076896105227223,0.3569853966336495
+H_uniform_price@R,uniform adjacency,enc,0,14,0.6066656958663553,0.349218762270293
+H_uniform_price@R,uniform adjacency,enc,0,30,0.6411633251106114,0.3862315923212464
+H_uniform_price@R,uniform adjacency,lat,1,1,0.4753766934972136,0.2230326415241154
+H_uniform_price@R,uniform adjacency,lat,1,3,0.5682174831894853,0.3180401527282074
+H_uniform_price@R,uniform adjacency,lat,1,7,0.6371542019105799,0.3945642849392851
+H_uniform_price@R,uniform adjacency,lat,1,14,0.6634609138694375,0.4300326161503053
+H_uniform_price@R,uniform adjacency,lat,1,30,0.7001233602001106,0.47217006835346476
+H_uniform_price@R,uniform adjacency,enc,1,1,0.48291092900241456,0.23035243523144155
+H_uniform_price@R,uniform adjacency,enc,1,3,0.5656759386291027,0.3123755838055877
+H_uniform_price@R,uniform adjacency,enc,1,7,0.638971608665935,0.3901697714395218
+H_uniform_price@R,uniform adjacency,enc,1,14,0.653806551094688,0.4133718824384168
+H_uniform_price@R,uniform adjacency,enc,1,30,0.7223187463500859,0.5045586574026006
+H_uniform_price@R,uniform adjacency,lat,2,1,0.47943600188720514,0.22764507498647546
+H_uniform_price@R,uniform adjacency,lat,2,3,0.5703571648383209,0.32316306050166566
+H_uniform_price@R,uniform adjacency,lat,2,7,0.6747544983277258,0.45505543168078966
+H_uniform_price@R,uniform adjacency,lat,2,14,0.6777271705997723,0.45786313613088325
+H_uniform_price@R,uniform adjacency,lat,2,30,0.6908162786039598,0.46377919376464405
+H_uniform_price@R,uniform adjacency,enc,2,1,0.46886412213937156,0.21508570700348661
+H_uniform_price@R,uniform adjacency,enc,2,3,0.557633620080499,0.30626343924352506
+H_uniform_price@R,uniform adjacency,enc,2,7,0.6681762252896342,0.44365663101241537
+H_uniform_price@R,uniform adjacency,enc,2,14,0.6722697611086442,0.446818064755126
+H_uniform_price@R,uniform adjacency,enc,2,30,0.7143206902897634,0.4921544970821463
+H_uniform_price@R,uniform adjacency,lat,3,1,0.4832550905643008,0.23170386928423903
+H_uniform_price@R,uniform adjacency,lat,3,3,0.5667831803222738,0.31458376976670066
+H_uniform_price@R,uniform adjacency,lat,3,7,0.6617904181644185,0.42536991156843595
+H_uniform_price@R,uniform adjacency,lat,3,14,0.6712811087652159,0.43405736236336123
+H_uniform_price@R,uniform adjacency,lat,3,30,0.7055718383849544,0.4806026218960727
+H_uniform_price@R,uniform adjacency,enc,3,1,0.48929622590035954,0.23729139494320795
+H_uniform_price@R,uniform adjacency,enc,3,3,0.5767582451247707,0.3272840466328628
+H_uniform_price@R,uniform adjacency,enc,3,7,0.6729783243087856,0.442289539119201
+H_uniform_price@R,uniform adjacency,enc,3,14,0.6777263537126595,0.44404602939897375
+H_uniform_price@R,uniform adjacency,enc,3,30,0.7183995589525565,0.49902542493961577
+H_uniform_price@R,uniform adjacency,lat,4,1,0.46553694869179757,0.2137358965310744
+H_uniform_price@R,uniform adjacency,lat,4,3,0.5395809034330314,0.2864026603091874
+H_uniform_price@R,uniform adjacency,lat,4,7,0.6542604795004678,0.4254425932610577
+H_uniform_price@R,uniform adjacency,lat,4,14,0.6917799780721953,0.47318188964466834
+H_uniform_price@R,uniform adjacency,lat,4,30,0.6971354975847167,0.47425697485439766
+H_uniform_price@R,uniform adjacency,enc,4,1,0.4702077294170672,0.219416731027818
+H_uniform_price@R,uniform adjacency,enc,4,3,0.537609175876941,0.2852413656196817
+H_uniform_price@R,uniform adjacency,enc,4,7,0.6610851067868964,0.4361347966169129
+H_uniform_price@R,uniform adjacency,enc,4,14,0.7009371272109828,0.48833485909543606
+H_uniform_price@R,uniform adjacency,enc,4,30,0.707843230536707,0.48625957892140226
+H_uniform_price@R,uniform adjacency,lat,5,1,0.48875915281664684,0.23757914991446616
+H_uniform_price@R,uniform adjacency,lat,5,3,0.5700720988052513,0.3229570659644667
+H_uniform_price@R,uniform adjacency,lat,5,7,0.636753442417275,0.39787861767739796
+H_uniform_price@R,uniform adjacency,lat,5,14,0.6711059159029832,0.4379947042877429
+H_uniform_price@R,uniform adjacency,lat,5,30,0.715395583997471,0.4943397902565694
+H_uniform_price@R,uniform adjacency,enc,5,1,0.49924560177801136,0.2467827413788789
+H_uniform_price@R,uniform adjacency,enc,5,3,0.5770342046134963,0.3245501441885119
+H_uniform_price@R,uniform adjacency,enc,5,7,0.6369708047064613,0.376364138719525
+H_uniform_price@R,uniform adjacency,enc,5,14,0.6590610162698228,0.3924748068267727
+H_uniform_price@R,uniform adjacency,enc,5,30,0.7202346713506593,0.49797130831950465
+H_uniform_price@R,uniform adjacency,lat,6,1,0.4833679424641817,0.23110455148240838
+H_uniform_price@R,uniform adjacency,lat,6,3,0.5811315099420314,0.3314233519590781
+H_uniform_price@R,uniform adjacency,lat,6,7,0.6595823715166764,0.4191385193699746
+H_uniform_price@R,uniform adjacency,lat,6,14,0.6614620159915376,0.42024945616381126
+H_uniform_price@R,uniform adjacency,lat,6,30,0.6655486569502207,0.42606689343238213
+H_uniform_price@R,uniform adjacency,enc,6,1,0.48689101632526954,0.23018856358331707
+H_uniform_price@R,uniform adjacency,enc,6,3,0.5732626392070818,0.31566382252030545
+H_uniform_price@R,uniform adjacency,enc,6,7,0.6851724425557211,0.44750302154540067
+H_uniform_price@R,uniform adjacency,enc,6,14,0.6945917028827292,0.4571450126375862
+H_uniform_price@R,uniform adjacency,enc,6,30,0.6954706377286509,0.45555030663759477
+H_uniform_price@R,uniform adjacency,lat,7,1,0.4877574769896441,0.23676926259963538
+H_uniform_price@R,uniform adjacency,lat,7,3,0.5669432675723769,0.31307964490484874
+H_uniform_price@R,uniform adjacency,lat,7,7,0.6512830994789541,0.40736279703135947
+H_uniform_price@R,uniform adjacency,lat,7,14,0.6460821575819318,0.4014044563871214
+H_uniform_price@R,uniform adjacency,lat,7,30,0.6718663152311027,0.4358798339942158
+H_uniform_price@R,uniform adjacency,enc,7,1,0.489983957656241,0.23186272910623074
+H_uniform_price@R,uniform adjacency,enc,7,3,0.563724677068236,0.30032784260447254
+H_uniform_price@R,uniform adjacency,enc,7,7,0.6511552860333025,0.3968338232420112
+H_uniform_price@R,uniform adjacency,enc,7,14,0.6476694278642697,0.3905315396048291
+H_uniform_price@R,uniform adjacency,enc,7,30,0.694683244539264,0.4575463365660962
+H_uniform_price@R,uniform adjacency,lat,8,1,0.4936735960138067,0.2418082740510762
+H_uniform_price@R,uniform adjacency,lat,8,3,0.5996324801364702,0.35904118318828293
+H_uniform_price@R,uniform adjacency,lat,8,7,0.6783270111042127,0.4585775724693967
+H_uniform_price@R,uniform adjacency,lat,8,14,0.6650270496116678,0.43295632188607736
+H_uniform_price@R,uniform adjacency,lat,8,30,0.6963162600599717,0.4629525874776901
+H_uniform_price@R,uniform adjacency,enc,8,1,0.4972855440770409,0.2447087003384183
+H_uniform_price@R,uniform adjacency,enc,8,3,0.5900934161989015,0.3437266163263426
+H_uniform_price@R,uniform adjacency,enc,8,7,0.6912595252295715,0.47333711794053435
+H_uniform_price@R,uniform adjacency,enc,8,14,0.6800508344014998,0.45194485312119914
+H_uniform_price@R,uniform adjacency,enc,8,30,0.7032540438352449,0.4703596093266793
+H_uniform_price@R,uniform adjacency,lat,9,1,0.4862852365739499,0.23501221414242468
+H_uniform_price@R,uniform adjacency,lat,9,3,0.5791722681946574,0.332083593673539
+H_uniform_price@R,uniform adjacency,lat,9,7,0.6515285541103398,0.4110349743644073
+H_uniform_price@R,uniform adjacency,lat,9,14,0.6377097446443434,0.3830173236008222
+H_uniform_price@R,uniform adjacency,lat,9,30,0.689385962941063,0.4544517740413293
+H_uniform_price@R,uniform adjacency,enc,9,1,0.4986055558076707,0.246374599752066
+H_uniform_price@R,uniform adjacency,enc,9,3,0.5787402976006761,0.3286302934052131
+H_uniform_price@R,uniform adjacency,enc,9,7,0.6562201725756481,0.4100288069482557
+H_uniform_price@R,uniform adjacency,enc,9,14,0.6476699069020962,0.37864558440351637
+H_uniform_price@R,uniform adjacency,enc,9,30,0.7031953004251944,0.46240450311352
+L3_learned_static@R,learned static (CMIN-S),lat,0,1,0.5048693117592342,0.25383721750069654
+L3_learned_static@R,learned static (CMIN-S),lat,0,3,0.5856538195860806,0.3417391414552119
+L3_learned_static@R,learned static (CMIN-S),lat,0,7,0.6685976344722897,0.44218480704088114
+L3_learned_static@R,learned static (CMIN-S),lat,0,14,0.6993981324205911,0.4804649804521146
+L3_learned_static@R,learned static (CMIN-S),lat,0,30,0.6935323385516144,0.4741285166278707
+L3_learned_static@R,learned static (CMIN-S),enc,0,1,0.501460611600969,0.25110399132053685
+L3_learned_static@R,learned static (CMIN-S),enc,0,3,0.5699566181253437,0.3231218727197561
+L3_learned_static@R,learned static (CMIN-S),enc,0,7,0.6594161828759881,0.42617943554801685
+L3_learned_static@R,learned static (CMIN-S),enc,0,14,0.693212000680553,0.46768908271901544
+L3_learned_static@R,learned static (CMIN-S),enc,0,30,0.7260365056773866,0.5177377395166773
+L3_learned_static@R,learned static (CMIN-S),lat,1,1,0.4705566428687141,0.21956357922624414
+L3_learned_static@R,learned static (CMIN-S),lat,1,3,0.5584047649178004,0.30314988517209984
+L3_learned_static@R,learned static (CMIN-S),lat,1,7,0.6292228828255304,0.38603345085592744
+L3_learned_static@R,learned static (CMIN-S),lat,1,14,0.6474347352877554,0.40850504330031134
+L3_learned_static@R,learned static (CMIN-S),lat,1,30,0.7191398935846895,0.5046303880628393
+L3_learned_static@R,learned static (CMIN-S),enc,1,1,0.46604118586472737,0.21527923679145455
+L3_learned_static@R,learned static (CMIN-S),enc,1,3,0.5400901363360048,0.2835770610711801
+L3_learned_static@R,learned static (CMIN-S),enc,1,7,0.5878817189533964,0.3305589643776543
+L3_learned_static@R,learned static (CMIN-S),enc,1,14,0.6162655667558804,0.3709725426813154
+L3_learned_static@R,learned static (CMIN-S),enc,1,30,0.7148776142715279,0.49995994462205395
+L3_learned_static@R,learned static (CMIN-S),lat,2,1,0.4760735935969667,0.22562675633808882
+L3_learned_static@R,learned static (CMIN-S),lat,2,3,0.5518299207815789,0.30414872834024076
+L3_learned_static@R,learned static (CMIN-S),lat,2,7,0.6280578899554745,0.3940157048184406
+L3_learned_static@R,learned static (CMIN-S),lat,2,14,0.6667285439798168,0.4428107392208914
+L3_learned_static@R,learned static (CMIN-S),lat,2,30,0.6986214806701428,0.4805377526518677
+L3_learned_static@R,learned static (CMIN-S),enc,2,1,0.4473575065640569,0.19142234306059436
+L3_learned_static@R,learned static (CMIN-S),enc,2,3,0.5159173197185059,0.2596504380861894
+L3_learned_static@R,learned static (CMIN-S),enc,2,7,0.5943977640037635,0.3497424429660606
+L3_learned_static@R,learned static (CMIN-S),enc,2,14,0.6422382270463319,0.4093333436160721
+L3_learned_static@R,learned static (CMIN-S),enc,2,30,0.7131981739545084,0.4961012609206019
+L3_learned_static@R,learned static (CMIN-S),lat,3,1,0.4915583125735065,0.23820960377333789
+L3_learned_static@R,learned static (CMIN-S),lat,3,3,0.5880510944547632,0.3395244794694644
+L3_learned_static@R,learned static (CMIN-S),lat,3,7,0.6883594683496357,0.4637209759402743
+L3_learned_static@R,learned static (CMIN-S),lat,3,14,0.7249085628046388,0.5199140963988851
+L3_learned_static@R,learned static (CMIN-S),lat,3,30,0.7346317692373986,0.5289300190194965
+L3_learned_static@R,learned static (CMIN-S),enc,3,1,0.4685314166388096,0.21527655441344573
+L3_learned_static@R,learned static (CMIN-S),enc,3,3,0.5639203389512182,0.31391384761295926
+L3_learned_static@R,learned static (CMIN-S),enc,3,7,0.6531871065378636,0.41850416771189547
+L3_learned_static@R,learned static (CMIN-S),enc,3,14,0.7139580541171356,0.5041324987970589
+L3_learned_static@R,learned static (CMIN-S),enc,3,30,0.7342138927755567,0.527513792820257
+L3_learned_static@R,learned static (CMIN-S),lat,4,1,0.47588964899721026,0.2257138820879595
+L3_learned_static@R,learned static (CMIN-S),lat,4,3,0.5715439318587456,0.3239690588166826
+L3_learned_static@R,learned static (CMIN-S),lat,4,7,0.6633313529536898,0.4316757575081228
+L3_learned_static@R,learned static (CMIN-S),lat,4,14,0.6886584677137377,0.46302388703077535
+L3_learned_static@R,learned static (CMIN-S),lat,4,30,0.7278281025039985,0.5185889450542598
+L3_learned_static@R,learned static (CMIN-S),enc,4,1,0.47651353410023833,0.2261230105531249
+L3_learned_static@R,learned static (CMIN-S),enc,4,3,0.572160144793007,0.3223349798952966
+L3_learned_static@R,learned static (CMIN-S),enc,4,7,0.6702034023687816,0.4371383454857607
+L3_learned_static@R,learned static (CMIN-S),enc,4,14,0.7185373284421896,0.5033667196208862
+L3_learned_static@R,learned static (CMIN-S),enc,4,30,0.7465754855840241,0.5454349264748064
+L3_learned_static@R,learned static (CMIN-S),lat,5,1,0.503831728769975,0.2532788187229865
+L3_learned_static@R,learned static (CMIN-S),lat,5,3,0.5819052208964519,0.336667790574089
+L3_learned_static@R,learned static (CMIN-S),lat,5,7,0.6574178999593303,0.4239200697297151
+L3_learned_static@R,learned static (CMIN-S),lat,5,14,0.685109374717006,0.4523637416631243
+L3_learned_static@R,learned static (CMIN-S),lat,5,30,0.7255511688491116,0.5085881466082902
+L3_learned_static@R,learned static (CMIN-S),enc,5,1,0.4945512037830662,0.24387818864220068
+L3_learned_static@R,learned static (CMIN-S),enc,5,3,0.5773221078225361,0.33201809821283057
+L3_learned_static@R,learned static (CMIN-S),enc,5,7,0.6485747276922093,0.41419270837991395
+L3_learned_static@R,learned static (CMIN-S),enc,5,14,0.6665156872419339,0.42969810009496556
+L3_learned_static@R,learned static (CMIN-S),enc,5,30,0.6912319979040981,0.4593376180146391
+L3_learned_static@R,learned static (CMIN-S),lat,6,1,0.5098312151914455,0.25865824132661963
+L3_learned_static@R,learned static (CMIN-S),lat,6,3,0.593974584936716,0.35088997666207433
+L3_learned_static@R,learned static (CMIN-S),lat,6,7,0.6395907020188856,0.40886996865344805
+L3_learned_static@R,learned static (CMIN-S),lat,6,14,0.6681300827410471,0.445645559156305
+L3_learned_static@R,learned static (CMIN-S),lat,6,30,0.7201965398809156,0.5085894802618847
+L3_learned_static@R,learned static (CMIN-S),enc,6,1,0.5070108760474403,0.25524144369015944
+L3_learned_static@R,learned static (CMIN-S),enc,6,3,0.5891375891437501,0.3453851505925517
+L3_learned_static@R,learned static (CMIN-S),enc,6,7,0.6340746154875663,0.4007864055587399
+L3_learned_static@R,learned static (CMIN-S),enc,6,14,0.6505922642965254,0.41618275496574864
+L3_learned_static@R,learned static (CMIN-S),enc,6,30,0.7038671258313562,0.4812214434765988
+L3_learned_static@R,learned static (CMIN-S),lat,7,1,0.4943043309692459,0.24330739292176085
+L3_learned_static@R,learned static (CMIN-S),lat,7,3,0.5640310161025445,0.3152365708128796
+L3_learned_static@R,learned static (CMIN-S),lat,7,7,0.6179754239008072,0.3739209150554471
+L3_learned_static@R,learned static (CMIN-S),lat,7,14,0.6203666749546097,0.37421181567945294
+L3_learned_static@R,learned static (CMIN-S),lat,7,30,0.6690319909987418,0.4364787704751515
+L3_learned_static@R,learned static (CMIN-S),enc,7,1,0.4866275663603131,0.23159203829817698
+L3_learned_static@R,learned static (CMIN-S),enc,7,3,0.5517715009812648,0.2989308936972961
+L3_learned_static@R,learned static (CMIN-S),enc,7,7,0.6117809703656744,0.3602335996464544
+L3_learned_static@R,learned static (CMIN-S),enc,7,14,0.658630051608773,0.4154348981157483
+L3_learned_static@R,learned static (CMIN-S),enc,7,30,0.6990749254824299,0.4709519194345986
+L3_learned_static@R,learned static (CMIN-S),lat,8,1,0.4855706418195114,0.23299993316080247
+L3_learned_static@R,learned static (CMIN-S),lat,8,3,0.5532477120999866,0.3010648338467734
+L3_learned_static@R,learned static (CMIN-S),lat,8,7,0.5927060657786484,0.33661180032650617
+L3_learned_static@R,learned static (CMIN-S),lat,8,14,0.657342821015004,0.4139010417840161
+L3_learned_static@R,learned static (CMIN-S),lat,8,30,0.7242321151036774,0.49984942368049823
+L3_learned_static@R,learned static (CMIN-S),enc,8,1,0.48839085656328846,0.2365286950699964
+L3_learned_static@R,learned static (CMIN-S),enc,8,3,0.5638305729580559,0.31299680530628127
+L3_learned_static@R,learned static (CMIN-S),enc,8,7,0.5821693485144659,0.31911550014918366
+L3_learned_static@R,learned static (CMIN-S),enc,8,14,0.6384161086199208,0.38455121348590704
+L3_learned_static@R,learned static (CMIN-S),enc,8,30,0.7259371669886223,0.5003295860578333
+L3_learned_static@R,learned static (CMIN-S),lat,9,1,0.47846329076165645,0.22757633537374355
+L3_learned_static@R,learned static (CMIN-S),lat,9,3,0.5506709714223671,0.30032313612590855
+L3_learned_static@R,learned static (CMIN-S),lat,9,7,0.6550137541841742,0.4243947418493712
+L3_learned_static@R,learned static (CMIN-S),lat,9,14,0.6745671514653205,0.44690594948067364
+L3_learned_static@R,learned static (CMIN-S),lat,9,30,0.7040250878489244,0.4837107513488649
+L3_learned_static@R,learned static (CMIN-S),enc,9,1,0.46988258320333004,0.22012474415120253
+L3_learned_static@R,learned static (CMIN-S),enc,9,3,0.5275719707670383,0.27752738877692096
+L3_learned_static@R,learned static (CMIN-S),enc,9,7,0.6333110806351261,0.3996199793821431
+L3_learned_static@R,learned static (CMIN-S),enc,9,14,0.6724505273130396,0.44690919384278704
+L3_learned_static@R,learned static (CMIN-S),enc,9,30,0.7340436807703739,0.5233919047984241
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,0,1,0.40496572452485874,0.08716707971916338
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,0,3,0.5146064567832875,0.18871725086447932
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,0,7,0.6102199320005879,0.278683990772735
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,0,14,0.6206251915924818,0.25868788289259337
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,0,30,0.7169201786817434,0.4418412013420394
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,0,1,0.313813938029436,0.0883186863331118
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,0,3,0.3422470746782422,0.06445495054944816
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,0,7,0.40076614058040017,0.07818247299793857
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,0,14,0.4822385015683359,0.15820672879342368
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,0,30,0.6903798139388395,0.4677642047362084
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,1,1,0.2522367203313497,-0.04547747945138436
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,1,3,0.24511320931202615,-0.26563417685509405
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,1,7,0.2573748682305537,-0.4968663638770232
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,1,14,0.43568440603979314,-0.0697230270763971
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,1,30,0.7237402553996097,0.43068911980697455
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,1,1,0.30739180530376914,0.038469902868626504
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,1,3,0.3100573105259392,-0.09662652788989323
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,1,7,0.3170453105373393,-0.23490489011234295
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,1,14,0.4358103048753335,-0.011883968464803107
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,1,30,0.6931144562309113,0.43969577089625944
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,2,1,0.3194543578839945,0.06322000265882177
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,2,3,0.35889618860829703,-0.06187207257691285
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,2,7,0.37996244542872554,-0.18546866965307385
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,2,14,0.4249539271321777,-0.18912179035101073
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,2,30,0.6597338800782769,0.2584412528614234
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,2,1,0.290158257349616,0.03704187209951593
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,2,3,0.27836251993694533,-0.1355928951191645
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,2,7,0.29451904780983607,-0.25709376762219716
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,2,14,0.39360685735713835,-0.17869010248920913
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,2,30,0.7130763442776331,0.4714421767085588
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,3,1,0.27307601303715373,0.03466029278310845
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,3,3,0.2898988720538849,-0.05475584445307313
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,3,7,0.32173975583151354,-0.16680470106741518
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,3,14,0.3746333632959978,-0.21502180926441383
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,3,30,0.6236221462363357,0.27367923987675147
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,3,1,0.2962134193644361,0.03355593497358511
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,3,3,0.32686720616212817,-0.075601400848897
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,3,7,0.3856024344780984,-0.1063115099296208
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,3,14,0.5678975211115366,0.2005337829047389
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,3,30,0.7348721076614296,0.4989446737629024
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,4,1,0.40210401063102846,0.14517211293248589
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,4,3,0.4877122173197788,0.18908971619914294
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,4,7,0.5298683333007306,0.13717028204913007
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,4,14,0.5489977384230637,0.10397170553893964
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,4,30,0.6671180221052486,0.2916684165430259
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,4,1,0.3537871473361962,0.11872807548891062
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,4,3,0.40300700397540123,0.13302746757614559
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,4,7,0.4654480690657723,0.12037587615367029
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,4,14,0.5284689081471892,0.11064988526892117
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,4,30,0.7187448431735876,0.4749277379998782
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,5,1,0.2791692630087987,-0.006298241043019459
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,5,3,0.23665769979395432,-0.30868478481659234
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,5,7,0.21980157894699134,-0.7712238065111481
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,5,14,0.334308615492916,-0.5882405065373708
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,5,30,0.7033480841346474,0.35475259431107375
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,5,1,0.2829126130097446,-0.055452019922527906
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,5,3,0.28883954601320955,-0.3528082842891005
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,5,7,0.32873576933720405,-0.8136887882104193
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,5,14,0.5069188305740632,-0.34503862381043593
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,5,30,0.8177489893538009,0.6049674562174625
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,6,1,0.32153692070793916,0.04672559596014758
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,6,3,0.22256511942157955,-0.41997555268700815
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,6,7,0.26115897644979663,-0.7414183127544764
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,6,14,0.40151836082501347,-0.5591651335008156
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,6,30,0.7160015222622962,0.36723429663444285
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,6,1,0.24117593789145222,-0.08325430991433569
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,6,3,0.16224533004127906,-0.49205561450284785
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,6,7,0.23116085461452293,-0.8023852137468701
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,6,14,0.43648552709578553,-0.5271063274349097
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,6,30,0.7283980670043573,0.41832193194502676
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,7,1,0.2970090041705345,-0.14161535419047233
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,7,3,0.35354956440255064,-0.3042923110702229
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,7,7,0.41809852566876055,-0.49596730101753295
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,7,14,0.48171019481014266,-0.36140196175586126
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,7,30,0.7036515452096932,0.37444602077331446
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,7,1,0.3148753103184224,0.05879853950142844
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,7,3,0.369069394251575,0.0013455219701635768
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,7,7,0.4198802831119169,-0.07607988855242898
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,7,14,0.5182181948081593,-0.016763641704217402
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,7,30,0.7385419454039563,0.48052642863849604
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,8,1,0.3145268227141785,0.010989444785248326
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,8,3,0.27302300091078663,-0.277202124389359
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,8,7,0.253779959481663,-0.49512976811044607
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,8,14,0.37807907603820234,-0.24416529856050162
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,8,30,0.7127088536765601,0.40504379650325073
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,8,1,0.27882082431487965,-0.017243851179126413
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,8,3,0.27533749115552725,-0.2291384902360678
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,8,7,0.27680339310498114,-0.4374364725203699
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,8,14,0.4061778473049221,-0.20828772301424636
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,8,30,0.7502017684313218,0.5105390933988987
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,9,1,0.3089313021092991,-0.20419289757784864
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,9,3,0.37183220321265104,-0.28760723668271604
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,9,7,0.4433669683221847,-0.44226325492324525
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,9,14,0.4693808198979588,-0.3850540504959068
+L6_ctx_conditioned@R,context-conditioned (CMIN),lat,9,30,0.6703123869214944,0.2051634637974945
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,9,1,0.28555763847928556,0.03774812876325928
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,9,3,0.3151711630911318,-0.032338738023200087
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,9,7,0.37921225775881534,-0.13067905715110917
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,9,14,0.5011625252917635,-0.07843697863757515
+L6_ctx_conditioned@R,context-conditioned (CMIN),enc,9,30,0.6897244796917718,0.3575858764201403

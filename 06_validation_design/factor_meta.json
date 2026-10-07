@@ -1,0 +1,42 @@
+{
+  "1": {
+    "pc1_share_train": 0.12791713627395404,
+    "pc1_share_test_fixed_loadings": 0.24067572846050742,
+    "n_train_days": 1460,
+    "n_test_days": 365,
+    "loading_min": 0.055329210158317495,
+    "loading_max": 0.25528619614638537
+  },
+  "3": {
+    "pc1_share_train": 0.2708924763374576,
+    "pc1_share_test_fixed_loadings": 0.4208001521409493,
+    "n_train_days": 1460,
+    "n_test_days": 363,
+    "loading_min": 0.06643933212105581,
+    "loading_max": 0.20694042189219022
+  },
+  "7": {
+    "pc1_share_train": 0.4573050331650255,
+    "pc1_share_test_fixed_loadings": 0.6240088576159957,
+    "n_train_days": 1460,
+    "n_test_days": 359,
+    "loading_min": 0.09022986929721394,
+    "loading_max": 0.18922142332635355
+  },
+  "14": {
+    "pc1_share_train": 0.6235466309548715,
+    "pc1_share_test_fixed_loadings": 0.7797032656648804,
+    "n_train_days": 1460,
+    "n_test_days": 352,
+    "loading_min": 0.10191305915852324,
+    "loading_max": 0.1788306905400339
+  },
+  "30": {
+    "pc1_share_train": 0.7501208617843841,
+    "pc1_share_test_fixed_loadings": 0.8850774440140605,
+    "n_train_days": 1460,
+    "n_test_days": 336,
+    "loading_min": 0.10962667420911369,
+    "loading_max": 0.17330666166262404
+  }
+}

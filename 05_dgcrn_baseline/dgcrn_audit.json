@@ -1,0 +1,57 @@
+{
+ "cmin_params": 184636,
+ "arms": {
+  "DGCRN": {
+   "width": 64,
+   "params": 85598
+  },
+  "DGCRN_matched": {
+   "width": 103,
+   "params": 186257
+  }
+ },
+ "runs": {
+  "DGCRN": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "DGCRN_matched": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "H_real@R": [],
+  "L3_learned_static@R": [
+   0
+  ],
+  "L4_price_dynamic@R": [
+   0
+  ],
+  "AGCRN_matched": [],
+  "GWNet_matched": [],
+  "STGCN_matched": [],
+  "AGCRN_style": [
+   0
+  ],
+  "GWNet_style": [
+   0
+  ]
+ },
+ "epochs": 50,
+ "patience": 10
+}

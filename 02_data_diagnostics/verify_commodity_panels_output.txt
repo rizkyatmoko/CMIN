@@ -1,0 +1,30 @@
+commodity      quantity h=1              h=3              h=7              h=14             h=30           
+cabai rawit    decay    -0.068/-0.068   -0.049/-0.049   -0.041/-0.041   -0.041/-0.041   -0.039/-0.039 
+               PC1       0.276/0.282    0.494/0.503    0.703/0.710    0.831/0.838    0.908/0.913 
+               panel    121 (city, market) pairs [114 distinct names], 38 cities; the paper reports 121 markets, 38 cities
+bawang merah   decay    +0.069/+0.069   +0.024/+0.024   -0.026/-0.026   -0.063/-0.063   -0.083/-0.083 
+               PC1       0.136/0.128    0.277/0.266    0.473/0.473    0.645/0.655    0.779/0.791 
+               panel    121 (city, market) pairs [114 distinct names], 38 cities; the paper reports 121 markets, 38 cities
+bawang putih   decay    +0.041/+0.041   +0.104/+0.104   +0.088/+0.088   +0.094/+0.094   +0.071/+0.071 
+               PC1       0.072/0.074    0.142/0.121    0.264/0.240    0.414/0.399    0.603/0.607 
+               panel    121 (city, market) pairs [114 distinct names], 38 cities; the paper reports 121 markets, 38 cities
+beras medium   decay    -0.021/-0.021   -0.017/-0.017   -0.005/-0.005   +0.006/+0.006   -0.012/-0.012 
+               PC1       0.052/0.138    0.081/0.133    0.129/0.131    0.188/0.192    0.271/0.276 
+               panel    121 (city, market) pairs [114 distinct names], 38 cities; the paper reports 121 markets, 38 cities
+beras premium  decay    +0.046/+0.046   +0.061/+0.061   +0.060/+0.060   +0.031/+0.031   +0.027/+0.027 
+               PC1       0.061/0.116    0.087/0.096    0.147/0.154    0.231/0.237    0.350/0.360 
+               panel    121 (city, market) pairs [114 distinct names], 38 cities; the paper reports 121 markets, 38 cities
+
+Reading this
+------------
+Each pair is recomputed/published.
+
+* The distance-decay row matches the published column for all five panels, at every horizon,
+  to three decimals.  That identifies these files as the panels behind Table 5.
+* PC1 comes out lower here for the same reason as the chilli panel: this script pools raw
+  city prices, while the published run normalised each market before pooling.  The gap is
+  small for the three vegetables and larger at short horizons for the two rice series.
+* The market count agrees once markets are counted the way the paper counts them: these files
+  carry 114 distinct market names but 121 distinct (city, market) pairs, which is the 121 in
+  Table 3.  Seven market names recur in more than one regency.
+

@@ -1,0 +1,17 @@
+label,peak_domain,event_domain,n_peaks,matched,share
+pilot_single_seed_global,price,price,71,0,0.0
+pilot_single_seed_global,price,weather,71,10,0.14084507042253522
+pilot_single_seed_global,price,supply,71,14,0.19718309859154928
+pilot_single_seed_global,price,economy,71,0,0.0
+pilot_single_seed_global,weather,price,54,0,0.0
+pilot_single_seed_global,weather,weather,54,39,0.7222222222222222
+pilot_single_seed_global,weather,supply,54,0,0.0
+pilot_single_seed_global,weather,economy,54,5,0.09259259259259259
+pilot_single_seed_global,supply,price,54,0,0.0
+pilot_single_seed_global,supply,weather,54,39,0.7222222222222222
+pilot_single_seed_global,supply,supply,54,0,0.0
+pilot_single_seed_global,supply,economy,54,5,0.09259259259259259
+pilot_single_seed_global,economy,price,54,0,0.0
+pilot_single_seed_global,economy,weather,54,39,0.7222222222222222
+pilot_single_seed_global,economy,supply,54,0,0.0
+pilot_single_seed_global,economy,economy,54,5,0.09259259259259259

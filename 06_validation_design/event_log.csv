@@ -1,0 +1,295 @@
+date,domain,event_type,independence,source,split
+2021-03-06,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-03-21,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-04-13,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-14,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-15,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-16,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-17,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-18,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-19,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-20,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-21,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-22,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-23,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-24,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-25,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-26,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-27,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-28,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-29,economy,ramadan,faithfulness,calendar,train_or_val
+2021-04-30,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-01,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-02,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-03,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-04,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-05,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-06,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-07,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-08,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-09,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-10,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-11,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-12,economy,ramadan,faithfulness,calendar,train_or_val
+2021-05-13,economy,idul_fitri,faithfulness,calendar,train_or_val
+2021-06-24,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-09-14,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-11-14,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-11-28,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-12-14,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-12-27,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-12-30,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2021-12-31,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-01-07,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-01-11,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-01-20,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-02-23,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-02-24,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-03-07,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-04-01,economy,fuel_price_change,faithfulness,dataset fuel columns,train_or_val
+2022-04-02,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-03,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-04,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-05,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-06,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-07,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-08,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-09,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-10,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-11,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-12,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-13,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-14,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-15,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-16,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-17,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-18,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-19,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-04-19,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-20,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-21,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-22,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-23,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-24,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-25,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-26,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-27,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-28,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-29,economy,ramadan,faithfulness,calendar,train_or_val
+2022-04-30,economy,ramadan,faithfulness,calendar,train_or_val
+2022-05-01,economy,ramadan,faithfulness,calendar,train_or_val
+2022-05-02,economy,idul_fitri,faithfulness,calendar,train_or_val
+2022-05-20,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-05-26,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-09-01,supply,policy_supply_reserve+procurement_distribution+price_management,external,JDIH Peraturan Badan Pangan Nasional 4/2022,train_or_val
+2022-09-03,economy,fuel_price_change,faithfulness,dataset fuel columns,train_or_val
+2022-09-30,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-10-03,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-10-05,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 5/2022,train_or_val
+2022-10-21,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-10-24,supply,policy_supply_reserve,external,JDIH Peraturan Presiden 125/2022,train_or_val
+2022-11-18,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-12-20,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 11/2022,train_or_val
+2022-12-28,supply,policy_supply_reserve,external,JDIH Peraturan Badan Pangan Nasional 14/2022,train_or_val
+2022-12-30,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2022-12-31,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-01-03,economy,fuel_price_change,faithfulness,dataset fuel columns,train_or_val
+2023-01-22,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-09,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-11,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-16,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-17,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-18,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-19,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-21,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-22,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-02-27,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-03-02,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-03-05,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-03-23,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-24,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-24,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 6/2023,train_or_val
+2023-03-25,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-26,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-27,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-28,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-29,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-30,economy,ramadan,faithfulness,calendar,train_or_val
+2023-03-31,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 7/2023,train_or_val
+2023-03-31,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-01,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-02,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-03,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-04,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-05,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-06,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-07,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-08,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-09,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-04-09,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-10,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-04-10,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-11,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-12,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-13,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-14,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-15,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-16,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-17,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-18,supply,policy_supply_reserve+procurement_distribution+subsidy_assistance,external,JDIH Peraturan Badan Pangan Nasional 9/2023,train_or_val
+2023-04-18,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-19,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-20,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-21,economy,ramadan,faithfulness,calendar,train_or_val
+2023-04-22,economy,idul_fitri,faithfulness,calendar,train_or_val
+2023-06-01,economy,fuel_price_change,faithfulness,dataset fuel columns,train_or_val
+2023-06-14,supply,policy_subsidy_assistance,external,JDIH Peraturan Badan Pangan Nasional 14/2023,train_or_val
+2023-07-07,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-07-10,supply,policy_supply_reserve,external,JDIH Peraturan Badan Pangan Nasional 15/2023,train_or_val
+2023-07-10,supply,policy_subsidy_assistance,external,JDIH Peraturan Badan Pangan Nasional 16/2023,train_or_val
+2023-07-24,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 17/2023,train_or_val
+2023-08-25,supply,policy_import_export+supply_reserve+procurement_distribution+price_management,external,JDIH Peraturan Badan Pangan Nasional 19/2023,train_or_val
+2023-09-14,supply,policy_supply_reserve,external,JDIH Peraturan Badan Pangan Nasional 22/2023,train_or_val
+2023-11-30,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-12-01,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-12-04,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-12-05,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2023-12-13,supply,policy_supply_reserve+procurement_distribution,external,JDIH Peraturan Badan Pangan Nasional 30/2023,train_or_val
+2023-12-27,supply,policy_import_export,external,JDIH Peraturan Badan Pangan Nasional 31/2023,train_or_val
+2023-12-29,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-01-01,economy,fuel_price_change,faithfulness,dataset fuel columns,train_or_val
+2024-01-08,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-01-17,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-01-18,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-01-19,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-01-29,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-01-31,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-02-05,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-02-06,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-02-11,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-03-09,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-03-11,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-12,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-13,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-13,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-03-14,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-15,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-16,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-17,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-18,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-19,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-20,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-21,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-22,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-23,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-24,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-25,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-26,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-27,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-28,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-29,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-30,economy,ramadan,faithfulness,calendar,train_or_val
+2024-03-31,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-01,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-02,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-03,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-04,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-05,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-05,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-04-06,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-07,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-07,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-04-08,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-09,economy,ramadan,faithfulness,calendar,train_or_val
+2024-04-10,economy,idul_fitri,faithfulness,calendar,train_or_val
+2024-06-05,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 5/2024,train_or_val
+2024-06-20,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 6/2024,train_or_val
+2024-08-26,supply,policy_import_export+production,external,JDIH Peraturan Badan Pangan Nasional 10/2024,train_or_val
+2024-09-05,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-09-26,supply,policy_price_management,external,JDIH Peraturan Badan Pangan Nasional 12/2024,train_or_val
+2024-12-10,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-12-11,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-12-12,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-12-14,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-12-15,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2024-12-24,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-01,economy,fuel_price_change,faithfulness,dataset fuel columns,train_or_val
+2025-01-01,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-11,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-14,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-20,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-21,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-25,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-01-26,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-02-11,supply,policy_supply_reserve,external,JDIH Peraturan Badan Pangan Nasional 3/2025,train_or_val
+2025-02-24,weather,extreme_rain,faithfulness,NASA POWER,train_or_val
+2025-02-28,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-03-01,economy,ramadan,faithfulness,calendar,test
+2025-03-02,economy,ramadan,faithfulness,calendar,test
+2025-03-03,economy,ramadan,faithfulness,calendar,test
+2025-03-04,economy,ramadan,faithfulness,calendar,test
+2025-03-05,economy,ramadan,faithfulness,calendar,test
+2025-03-06,economy,ramadan,faithfulness,calendar,test
+2025-03-07,economy,ramadan,faithfulness,calendar,test
+2025-03-08,economy,ramadan,faithfulness,calendar,test
+2025-03-09,economy,ramadan,faithfulness,calendar,test
+2025-03-10,economy,ramadan,faithfulness,calendar,test
+2025-03-11,economy,ramadan,faithfulness,calendar,test
+2025-03-12,economy,ramadan,faithfulness,calendar,test
+2025-03-13,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-03-13,economy,ramadan,faithfulness,calendar,test
+2025-03-14,economy,ramadan,faithfulness,calendar,test
+2025-03-15,economy,ramadan,faithfulness,calendar,test
+2025-03-16,economy,ramadan,faithfulness,calendar,test
+2025-03-17,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-03-17,economy,ramadan,faithfulness,calendar,test
+2025-03-18,economy,ramadan,faithfulness,calendar,test
+2025-03-19,economy,ramadan,faithfulness,calendar,test
+2025-03-20,economy,ramadan,faithfulness,calendar,test
+2025-03-21,economy,ramadan,faithfulness,calendar,test
+2025-03-22,economy,ramadan,faithfulness,calendar,test
+2025-03-23,economy,ramadan,faithfulness,calendar,test
+2025-03-24,economy,ramadan,faithfulness,calendar,test
+2025-03-25,economy,ramadan,faithfulness,calendar,test
+2025-03-26,economy,ramadan,faithfulness,calendar,test
+2025-03-27,economy,ramadan,faithfulness,calendar,test
+2025-03-28,economy,ramadan,faithfulness,calendar,test
+2025-03-29,economy,ramadan,faithfulness,calendar,test
+2025-03-30,economy,ramadan,faithfulness,calendar,test
+2025-03-31,economy,idul_fitri,faithfulness,calendar,test
+2025-04-01,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-04-03,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-04-14,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-05-01,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-05-02,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-05-11,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-05-23,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-07-02,supply,policy_procurement_distribution,external,JDIH Peraturan Badan Pangan Nasional 5/2025,test
+2025-08-06,supply,policy_supply_reserve+price_management,external,JDIH Peraturan Badan Pangan Nasional 7/2025,test
+2025-11-05,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-11-06,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-11-11,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-11-18,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-11-22,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-11-23,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-12-11,weather,extreme_rain,faithfulness,NASA POWER,test
+2025-12-25,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-01-04,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-01-05,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-01-08,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-01-12,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-02-04,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-02-10,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-02-15,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-02-18,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-02-19,economy,ramadan,faithfulness,calendar,test
+2026-02-20,economy,ramadan,faithfulness,calendar,test
+2026-02-21,economy,ramadan,faithfulness,calendar,test
+2026-02-22,economy,ramadan,faithfulness,calendar,test
+2026-02-23,economy,ramadan,faithfulness,calendar,test
+2026-02-24,economy,ramadan,faithfulness,calendar,test
+2026-02-25,economy,ramadan,faithfulness,calendar,test
+2026-02-26,economy,ramadan,faithfulness,calendar,test
+2026-02-27,economy,ramadan,faithfulness,calendar,test
+2026-02-27,weather,extreme_rain,faithfulness,NASA POWER,test
+2026-02-28,economy,ramadan,faithfulness,calendar,test

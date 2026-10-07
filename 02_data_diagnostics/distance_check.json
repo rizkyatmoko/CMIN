@@ -1,0 +1,10 @@
+{
+ "pearson_r": 0.9221895937286086,
+ "spearman_rho": 0.925599648022472,
+ "median_rel_dev": 0.1570696676446118,
+ "p90_rel_dev": 0.3789984299205587,
+ "median_abs_km": 22.1353,
+ "mean_ratio_matrix_over_osrm": 0.9255477439500461,
+ "knn8_overlap": 0.805921052631579,
+ "pairs": 703
+}
